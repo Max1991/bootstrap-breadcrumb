@@ -65,6 +65,13 @@ $.fn.breadcrumb.defaults = {
   ignoreList: undefined
 };
 ```
+3) Can I see example?
+
+Yes, download example folder. I have tested it only with IIS (including IIS Express).
+
+4) Can I see it life in action?
+
+Not yet.
 
 ToDo
 --------------------------
