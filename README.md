@@ -6,7 +6,7 @@ This little plugin should generate for ya Twitter Bootstrap Breadcrumb from your
 Assume you have got already
 ---------------------------
 
-1) Good day
+1) Good day 2
 
 2) Your website with Twitter Bootstrap already integrated 
 
