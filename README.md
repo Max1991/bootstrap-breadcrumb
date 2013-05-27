@@ -76,6 +76,6 @@ Not yet.
 ToDo
 --------------------------
 
-1. As this is my first ever plugin it needs to be reviewed
+1. As this is my first ever plugin it needs to be reviewed by gurus :-)
 2. I will try to use the same concept of Twitter Bootstrap .js and use it 
 3. Anything else?
