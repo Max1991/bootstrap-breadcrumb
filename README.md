@@ -69,7 +69,7 @@ $.fn.breadcrumb.defaults = {
 
 Yes, download example folder. I have tested it only with IIS (including IIS Express).
 
-4) Can I see it life in action?
+4) Can I see it live in action?
 
 Not yet.
 
